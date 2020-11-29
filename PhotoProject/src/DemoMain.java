@@ -7,7 +7,7 @@ public class DemoMain {
 
 		Photo photo = new Photo();
 		System.out.println("Hello! Welcome to Photo Manager");
-		System.out.println("To add photo's to Album: Enter 1");
+		System.out.println("To add phoo's to Album: Enter 1");
 		System.out.println("To delete photo's from Album: Enter 2");
 		System.out.println("To display photo's of Album: Enter 3");
 		System.out.println("To Exit");
